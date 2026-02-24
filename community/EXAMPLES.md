@@ -12,6 +12,19 @@ If you have a project that you would like listed here, fork this repository and
 [create a pull request](https://github.com/up-banking/api/pulls) with your
 additions to this document.
 
+## Claude code finance skills
+
+**Author:** [@xaviershay](https://github.com/xaviershay) \
+**Repository:** https://github.com/xaviershay/up-finance-skills \
+**Created:** 25/02/2026 \
+**Languages:** Bash
+
+A Claude Code skill for analysing personal finances with natural language e.g.
+
+- "what am I spending the most on?"
+- "how much am I saving?"
+- "what are my regular expenses?"
+
 ## Account balance in Google Sheets
 
 **Author:** [@ilievskizoran](https://github.com/ilievskizoran) \
